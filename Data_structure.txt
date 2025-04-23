@@ -1,0 +1,14 @@
+Menu_Classifier/
+├── data/
+│   ├── train/
+│   │   ├── menu/
+│   │   └── non_menu/
+│   └── test/
+│       ├── menu/
+│       └── non_menu/
+├── notebooks/
+│   └── menu_classifier.ipynb
+├── src/
+│   └── utils.py
+├── requirements.txt
+└── README.md

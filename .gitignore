@@ -1,0 +1,6 @@
+data/ 
+data_processed/ 
+*.h5 
+__pycache__/ 
+.ipynb_checkpoints/ 
+*.zip 
