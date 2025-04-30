@@ -3,4 +3,6 @@ __pycache__/
 .ipynb_checkpoints/
 data_unprocessed/
 data_processed/
+notebooks/preparation_data.ipynb
 EOF
+saved_models/
