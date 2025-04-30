@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data_unprocessed/
+data_processed/
+EOF
